@@ -1,0 +1,12 @@
+name: grfp-awardees
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - openpyxl
+
